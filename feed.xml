@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>English: The Thinking Method</title>
+    <link>https://github.com/denny999222/language-transfer-audio</link>
+    <description>Um curso de inglês para brasileiros que ensina a MONTAR o idioma, não a decorá-lo. Sem listas, sem anotações, sem decoreba — você entende a lógica e fala. Pause, responda em voz alta antes da Bia, e deixe o resto com o professor.</description>
+    <language>pt</language>
+    <itunes:author>Denny Liang</itunes:author>
+    <itunes:category text="Education"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <item>
+      <title>L00 — Bem-vindo — como usar este curso</title>
+      <description>Nesta lição você aprende a usar o curso: pausar, responder em voz alta antes da Bia, relaxar e confiar no método. Frase do dia: «Você não decora inglês — você monta.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_00.mp3" length="1885640" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_00</guid>
+      <pubDate>Sun, 06 Sep 2026 21:55:15 GMT</pubDate>
+      <itunes:episode>0</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L01 — A mina de ouro: It is + adjetivo</title>
+      <description>Nesta lição você aprende a afirmar com It is + adjetivo (cognatos). Frase do dia: «It is possible.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_01.mp3" length="2934718" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_01</guid>
+      <pubDate>Mon, 17 Aug 2026 04:49:47 GMT</pubDate>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L02 — O natural 'it's' + 2a familia</title>
+      <description>Nesta lição você aprende a grudar it's; descrever mais. Frase do dia: «It's different.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_02.mp3" length="3185075" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_02</guid>
+      <pubDate>Mon, 17 Aug 2026 04:55:29 GMT</pubDate>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L03 — Mais duas familias (treino pesado)</title>
+      <description>Nesta lição você aprende a descrever muito mais. Frase do dia: «It's famous.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_03.mp3" length="2648416" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_03</guid>
+      <pubDate>Mon, 17 Aug 2026 04:56:14 GMT</pubDate>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L04 — As ultimas familias + o 'quase'</title>
+      <description>Nesta lição você aprende a fechar a mina de adjetivos; sentir os quase. Frase do dia: «It's special.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_04.mp3" length="3077451" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_04</guid>
+      <pubDate>Sat, 15 Aug 2026 18:46:44 GMT</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L05 — Falar de VOCE: I am + adjetivo</title>
+      <description>Nesta lição você aprende a descrever a si mesmo reusando cognatos. Frase do dia: «I am responsible.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_05.mp3" length="2194512" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_05</guid>
+      <pubDate>Mon, 17 Aug 2026 05:00:56 GMT</pubDate>
+      <itunes:episode>5</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L06 — Falar do OUTRO: you are / are you?</title>
+      <description>Nesta lição você aprende a descrever e perguntar ao outro. Frase do dia: «You are important.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_06.mp3" length="2177376" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_06</guid>
+      <pubDate>Mon, 17 Aug 2026 05:01:27 GMT</pubDate>
+      <itunes:episode>6</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L07 — 'more' vs 'very' (mais/muito) + falso amigo</title>
+      <description>Nesta lição você aprende a comparar (mais) e intensificar (muito=very); 1 armadilha. Frase do dia: «It's more important.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_07.mp3" length="1799959" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_07</guid>
+      <pubDate>Mon, 17 Aug 2026 05:06:20 GMT</pubDate>
+      <itunes:episode>7</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L08 — Cognatos-adverbio: -mente-&gt;-ly</title>
+      <description>Nesta lição você aprende a descrever COMO, de graca (a mina de adverbios). Frase do dia: «It is normally possible.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_08.mp3" length="1961709" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_08</guid>
+      <pubDate>Mon, 17 Aug 2026 05:09:58 GMT</pubDate>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L09 — Apontar: this / that / these / those</title>
+      <description>Nesta lição você aprende a apontar perto/longe, singular/plural. Frase do dia: «This is possible.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_09.mp3" length="2425435" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_09</guid>
+      <pubDate>Mon, 17 Aug 2026 05:07:05 GMT</pubDate>
+      <itunes:episode>9</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L10 — Checkpoint 1 — Descrever e se descrever</title>
+      <description>Nesta lição você aprende a descrever coisas e a si mesmo, em dialogo. Frase do dia: «It's incredible! I am responsible.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_10.mp3" length="1590143" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_10</guid>
+      <pubDate>Mon, 17 Aug 2026 05:07:27 GMT</pubDate>
+      <itunes:episode>10</itunes:episode>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L11 — Nomear: a/an + a 1a coisa</title>
+      <description>Nesta lição você aprende a dar nome com artigo indefinido. Frase do dia: «This is a car.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_11.mp3" length="2332021" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_11</guid>
+      <pubDate>Mon, 17 Aug 2026 05:12:54 GMT</pubDate>
+      <itunes:episode>11</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L12 — Cognatos-nome I: -cao-&gt;-tion, -dade-&gt;-ty</title>
+      <description>Nesta lição você aprende a nomear com a MAIOR mina de substantivos. Frase do dia: «This is information.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_12.mp3" length="2935136" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_12</guid>
+      <pubDate>Mon, 17 Aug 2026 14:59:35 GMT</pubDate>
+      <itunes:episode>12</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L13 — Cognatos-nome II: -ista-&gt;-ist (pessoa), -ismo-&gt;-ism (conceito)</title>
+      <description>Nesta lição você aprende a mais nomes de graca. Frase do dia: «This is an artist.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_13.mp3" length="2329304" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_13</guid>
+      <pubDate>Mon, 17 Aug 2026 05:24:38 GMT</pubDate>
+      <itunes:episode>13</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L14 — 'the' — e quando o ingles NAO usa</title>
+      <description>Nesta lição você aprende a usar the vs a/an vs sem artigo (contraste PT). Frase do dia: «The car is red.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_14.mp3" length="3626858" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_14</guid>
+      <pubDate>Mon, 17 Aug 2026 05:27:03 GMT</pubDate>
+      <itunes:episode>14</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L15 — O adjetivo vem ANTES + mais nomes</title>
+      <description>Nesta lição você aprende a descrever coisas nomeadas (ordem inglesa). Frase do dia: «This is a good idea.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_15.mp3" length="2506728" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_15</guid>
+      <pubDate>Mon, 17 Aug 2026 16:05:29 GMT</pubDate>
+      <itunes:episode>15</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L16 — Plural + a musica (two red cars)</title>
+      <description>Nesta lição você aprende a descrever em quantidade, sem sotaque. Frase do dia: «two red cars».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_16.mp3" length="2208514" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_16</guid>
+      <pubDate>Mon, 17 Aug 2026 05:29:08 GMT</pubDate>
+      <itunes:episode>16</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L17 — Comparar: more X than Y (a outra metade do 'more')</title>
+      <description>Nesta lição você aprende a comparar duas coisas — retoma o 'more' do L07 e adiciona 'than'. Frase do dia: «This is more important than that.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_17.mp3" length="2210186" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_17</guid>
+      <pubDate>Mon, 17 Aug 2026 14:47:26 GMT</pubDate>
+      <itunes:episode>17</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L18 — Negar: is not / isn't</title>
+      <description>Nesta lição você aprende a dizer que algo NAO e. Frase do dia: «It is not possible.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_18.mp3" length="2619786" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_18</guid>
+      <pubDate>Sat, 15 Aug 2026 19:27:35 GMT</pubDate>
+      <itunes:episode>18</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L19 — Perguntar: Is it ...? / Are you ...?</title>
+      <description>Nesta lição você aprende a perguntar se algo/alguem e. Frase do dia: «Is it possible?».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_19.mp3" length="1998489" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_19</guid>
+      <pubDate>Mon, 17 Aug 2026 14:48:07 GMT</pubDate>
+      <itunes:episode>19</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L20 — Responder: yes it is / no it isn't</title>
+      <description>Nesta lição você aprende a responder yes/no; espiar perguntas. Frase do dia: «Yes, it is.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_20.mp3" length="2036106" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_20</guid>
+      <pubDate>Mon, 17 Aug 2026 04:38:34 GMT</pubDate>
+      <itunes:episode>20</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L21 — Perguntar de verdade: what / where / who (+ frases maiores)</title>
+      <description>Nesta lição você aprende a abrir perguntas com what/where/who e montar frases mais longas. Frase do dia: «What is it?».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_21.mp3" length="1810826" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_21</guid>
+      <pubDate>Sun, 09 Aug 2026 21:34:40 GMT</pubDate>
+      <itunes:episode>21</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L22 — Juntar e adicionar: and / but / or / too</title>
+      <description>Nesta lição você aprende a juntar (e/mas/ou) e adicionar (tambem). Frase do dia: «It is good, but it is different.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_22.mp3" length="1954813" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_22</guid>
+      <pubDate>Mon, 17 Aug 2026 14:48:47 GMT</pubDate>
+      <itunes:episode>22</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L23 — Checkpoint 2 — Nomear, negar, perguntar</title>
+      <description>Nesta lição você aprende a nomear, descrever, negar, perguntar e juntar, em dialogo. Frase do dia: «Is it a good idea?».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_23.mp3" length="2109249" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_23</guid>
+      <pubDate>Sun, 16 Aug 2026 20:08:11 GMT</pubDate>
+      <itunes:episode>23</itunes:episode>
+      <itunes:season>3</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L24 — Meu, seu: my / your / his / her (+ oi)</title>
+      <description>Nesta lição você aprende a personalizar (meu nome, seu carro); cumprimentar. Frase do dia: «Hello! My name is Bia.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_24.mp3" length="3203884" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_24</guid>
+      <pubDate>Mon, 17 Aug 2026 14:58:03 GMT</pubDate>
+      <itunes:episode>24</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L25 — De onde voce e: from</title>
+      <description>Nesta lição você aprende a dizer origem; perguntar de onde. Frase do dia: «I am from Brazil.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_25.mp3" length="2196602" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_25</guid>
+      <pubDate>Mon, 17 Aug 2026 14:59:00 GMT</pubDate>
+      <itunes:episode>25</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L26 — Posse: 's e of — seu 'de' vira 's e of</title>
+      <description>Nesta lição você aprende a dizer de quem (friend's name) e de que (the color of the car). Frase do dia: «This is my friend's name.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_26.mp3" length="3215378" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_26</guid>
+      <pubDate>Mon, 17 Aug 2026 14:59:59 GMT</pubDate>
+      <itunes:episode>26</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L27 — 'to be' completo: he/she/we/they</title>
+      <description>Nesta lição você aprende a falar de qualquer pessoa (rotacao). Frase do dia: «She is happy.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_27.mp3" length="3032729" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_27</guid>
+      <pubDate>Mon, 17 Aug 2026 15:02:18 GMT</pubDate>
+      <itunes:episode>27</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L28 — be = ser E estar (convergencia)</title>
+      <description>Nesta lição você aprende a sentir que dois verbos viram um. Frase do dia: «I am at home.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_28.mp3" length="2587185" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_28</guid>
+      <pubDate>Mon, 17 Aug 2026 15:03:16 GMT</pubDate>
+      <itunes:episode>28</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L29 — Perguntar e dar o motivo: why + because / so</title>
+      <description>Nesta lição você aprende a explicar por que (dar razao sobre voce). Frase do dia: «I'm happy because she's my friend.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_29.mp3" length="2415195" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_29</guid>
+      <pubDate>Mon, 17 Aug 2026 15:04:08 GMT</pubDate>
+      <itunes:episode>29</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L30 — Checkpoint 3 — Me apresentar</title>
+      <description>Nesta lição você aprende a apresentar-se e falar de pessoas, em dialogo. Frase do dia: «Hi! I'm Bia, from Brazil.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_30.mp3" length="1785957" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_30</guid>
+      <pubDate>Mon, 17 Aug 2026 15:04:50 GMT</pubDate>
+      <itunes:episode>30</itunes:episode>
+      <itunes:season>4</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L31 — I can + verbo</title>
+      <description>Nesta lição você aprende a dizer o que e capaz de fazer. Frase do dia: «I can speak English.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_31.mp3" length="2310078" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_31</guid>
+      <pubDate>Sun, 16 Aug 2026 03:58:57 GMT</pubDate>
+      <itunes:episode>31</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L32 — can: negativo e pergunta</title>
+      <description>Nesta lição você aprende a negar capacidade / pedir ajuda. Frase do dia: «Can you help me?».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_32.mp3" length="2287090" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_32</guid>
+      <pubDate>Mon, 17 Aug 2026 15:12:27 GMT</pubDate>
+      <itunes:episode>32</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L33 — I will + verbo (futuro)</title>
+      <description>Nesta lição você aprende a falar do futuro / se oferecer. Frase do dia: «I will help you.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_33.mp3" length="2078320" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_33</guid>
+      <pubDate>Sat, 29 Aug 2026 05:04:48 GMT</pubDate>
+      <itunes:episode>33</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L34 — will: won't, pergunta e 'll</title>
+      <description>Nesta lição você aprende a negar (won't = will not), perguntar; forma natural 'll. Frase do dia: «I'll call you.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_34.mp3" length="2368592" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_34</guid>
+      <pubDate>Sun, 23 Aug 2026 21:22:44 GMT</pubDate>
+      <itunes:episode>34</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L35 — I'm going to (= 'vou') + will vs going to</title>
+      <description>Nesta lição você aprende a planos (transfere do 'vou'); escolher plano (going to) vs decisao na hora (will). Frase do dia: «I'm going to study.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_35.mp3" length="2122623" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_35</guid>
+      <pubDate>Mon, 17 Aug 2026 15:16:40 GMT</pubDate>
+      <itunes:episode>35</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L36 — I'd like to + verbo (nasce o 'to')</title>
+      <description>Nesta lição você aprende a pedir/oferecer com educacao. Frase do dia: «I'd like to help you.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_36.mp3" length="2509027" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_36</guid>
+      <pubDate>Sun, 23 Aug 2026 21:23:51 GMT</pubDate>
+      <itunes:episode>36</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L37 — Pronomes objeto (+ with)</title>
+      <description>Nesta lição você aprende a dizer PARA QUEM / COM quem. Frase do dia: «Can you help them?».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_37.mp3" length="2041330" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_37</guid>
+      <pubDate>Mon, 17 Aug 2026 15:18:18 GMT</pubDate>
+      <itunes:episode>37</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L38 — should — o conselho</title>
+      <description>Nesta lição você aprende a aconselhar. Frase do dia: «You should go.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_38.mp3" length="1588471" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_38</guid>
+      <pubDate>Sun, 16 Aug 2026 03:45:20 GMT</pubDate>
+      <itunes:episode>38</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L39 — have to / must — a obrigacao</title>
+      <description>Nesta lição você aprende a expressar obrigacao/necessidade. Frase do dia: «I have to go.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_39.mp3" length="1959201" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_39</guid>
+      <pubDate>Mon, 17 Aug 2026 15:44:11 GMT</pubDate>
+      <itunes:episode>39</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L40 — Empilhar motores + be able to</title>
+      <description>Nesta lição você aprende a combinar intencoes. Frase do dia: «I'd like to be able to speak.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_40.mp3" length="2509653" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_40</guid>
+      <pubDate>Mon, 17 Aug 2026 15:44:59 GMT</pubDate>
+      <itunes:episode>40</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L41 — Checkpoint 4 — Pedir, oferecer, planejar</title>
+      <description>Nesta lição você aprende a pedir, oferecer e planejar, em dialogo. Frase do dia: «Can you help me?».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_41.mp3" length="1809781" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_41</guid>
+      <pubDate>Mon, 17 Aug 2026 15:45:42 GMT</pubDate>
+      <itunes:episode>41</itunes:episode>
+      <itunes:season>5</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L42 — Have — o que voce tem</title>
+      <description>Nesta lição você aprende a falar de posse. Frase do dia: «I have a car.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_42.mp3" length="1887312" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_42</guid>
+      <pubDate>Mon, 17 Aug 2026 23:10:32 GMT</pubDate>
+      <itunes:episode>42</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L43 — have: 3a pessoa (has), neg e pergunta</title>
+      <description>Nesta lição você aprende a posse de qualquer pessoa. Frase do dia: «She has a problem.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_43.mp3" length="1941020" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_43</guid>
+      <pubDate>Mon, 17 Aug 2026 23:28:42 GMT</pubDate>
+      <itunes:episode>43</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L44 — Numeros 1-20 (e as dezenas)</title>
+      <description>Nesta lição você aprende a contar, dizer idade e quantidade. Frase do dia: «I am twenty. Two cars.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_44.mp3" length="2624592" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_44</guid>
+      <pubDate>Mon, 17 Aug 2026 22:27:55 GMT</pubDate>
+      <itunes:episode>44</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L45 — There is / there are</title>
+      <description>Nesta lição você aprende a dizer que algo existe. Frase do dia: «There is a problem.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_45.mp3" length="2065990" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_45</guid>
+      <pubDate>Mon, 17 Aug 2026 23:00:37 GMT</pubDate>
+      <itunes:episode>45</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L46 — Some / any + quanto (how much/many)</title>
+      <description>Nesta lição você aprende a pedir e falar de quantidade. Frase do dia: «There is some water.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_46.mp3" length="2519475" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_46</guid>
+      <pubDate>Mon, 17 Aug 2026 23:02:20 GMT</pubDate>
+      <itunes:episode>46</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L47 — Generalizar: all / every + a lot (tudo, muito)</title>
+      <description>Nesta lição você aprende a generalizar (tudo-&gt;all/every) e quantia (muito-&gt;a lot; lembra very). Frase do dia: «I have a lot. Every car.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_47.mp3" length="2338081" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_47</guid>
+      <pubDate>Mon, 17 Aug 2026 22:47:37 GMT</pubDate>
+      <itunes:episode>47</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L48 — Negar quantidade: no / none / not any</title>
+      <description>Nesta lição você aprende a dizer que NAO ha nada. Frase do dia: «There is no water.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_48.mp3" length="2244876" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_48</guid>
+      <pubDate>Mon, 17 Aug 2026 22:48:32 GMT</pubDate>
+      <itunes:episode>48</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L49 — in / on / at — o 'em' vira tres</title>
+      <description>Nesta lição você aprende a resolver a armadilha do em. Frase do dia: «There's a problem at home.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_49.mp3" length="1984488" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_49</guid>
+      <pubDate>Mon, 17 Aug 2026 22:49:55 GMT</pubDate>
+      <itunes:episode>49</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L50 — Imperativos + cortesia: give me / please / thank you</title>
+      <description>Nesta lição você aprende a pedir com educacao e agradecer. Frase do dia: «Give me the car, please.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_50.mp3" length="1900896" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_50</guid>
+      <pubDate>Mon, 17 Aug 2026 22:51:17 GMT</pubDate>
+      <itunes:episode>50</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L51 — Checkpoint 5 — Pedindo direcao</title>
+      <description>Nesta lição você aprende a perguntar onde e, pedir com imperativo, em dialogo. Frase do dia: «Where is the car?».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_51.mp3" length="1501327" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_51</guid>
+      <pubDate>Mon, 17 Aug 2026 23:03:32 GMT</pubDate>
+      <itunes:episode>51</itunes:episode>
+      <itunes:season>6</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L52 — I want to / I need to</title>
+      <description>Nesta lição você aprende a expressar desejo e necessidade. Frase do dia: «I want to go.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_52.mp3" length="2380295" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_52</guid>
+      <pubDate>Sun, 23 Aug 2026 23:08:45 GMT</pubDate>
+      <itunes:episode>52</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L53 — Verbos comuns no presente (+ know)</title>
+      <description>Nesta lição você aprende a falar de habitos e fatos; know = saber+conhecer. Frase do dia: «I know English.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_53.mp3" length="2189915" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_53</guid>
+      <pubDate>Sun, 23 Aug 2026 23:18:21 GMT</pubDate>
+      <itunes:episode>53</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L54 — Os coringas: make x do, say x tell</title>
+      <description>Nesta lição você aprende a sentir o fazer/dizer virar dois verbos (divergencia + armadilha). Frase do dia: «I make a car. I tell you.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_54.mp3" length="2439645" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_54</guid>
+      <pubDate>Sun, 23 Aug 2026 23:36:46 GMT</pubDate>
+      <itunes:episode>54</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L55 — O -s da 3a pessoa (+ always/never)</title>
+      <description>Nesta lição você aprende a habitos dele/dela; frequencia. Frase do dia: «He always works here.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_55.mp3" length="2457409" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_55</guid>
+      <pubDate>Sun, 23 Aug 2026 23:54:14 GMT</pubDate>
+      <itunes:episode>55</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L56 — Negativo: don't (nasce o DO)</title>
+      <description>Nesta lição você aprende a negar verbos comuns (eu/voce). Frase do dia: «I don't understand.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_56.mp3" length="2873905" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_56</guid>
+      <pubDate>Mon, 24 Aug 2026 00:02:31 GMT</pubDate>
+      <itunes:episode>56</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L57 — doesn't — o -s pula pro DO</title>
+      <description>Nesta lição você aprende a negar na 3a pessoa (o -s vai pro does). Frase do dia: «He doesn't work here.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_57.mp3" length="2194094" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_57</guid>
+      <pubDate>Mon, 24 Aug 2026 00:09:52 GMT</pubDate>
+      <itunes:episode>57</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L58 — Pergunta: Do you...?</title>
+      <description>Nesta lição você aprende a perguntar com verbos comuns / responder. Frase do dia: «Do you speak English?».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_58.mp3" length="1984070" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_58</guid>
+      <pubDate>Mon, 24 Aug 2026 05:00:46 GMT</pubDate>
+      <itunes:episode>58</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L59 — Does he...? + respostas curtas</title>
+      <description>Nesta lição você aprende a perguntar na 3a pessoa / responder. Frase do dia: «Does she speak English?».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_59.mp3" length="2224605" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_59</guid>
+      <pubDate>Mon, 24 Aug 2026 05:21:13 GMT</pubDate>
+      <itunes:episode>59</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L60 — WH + do: estender as palavras de pergunta aos verbos (+ when)</title>
+      <description>Nesta lição você aprende a perguntar o que/onde/quando/por que/como. Frase do dia: «Where do you live?».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_60.mp3" length="2058049" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_60</guid>
+      <pubDate>Mon, 24 Aug 2026 05:27:20 GMT</pubDate>
+      <itunes:episode>60</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L61 — Checkpoint 6 — O dia a dia</title>
+      <description>Nesta lição você aprende a trocar dados e falar da rotina, em dialogo. Frase do dia: «What do you do?».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_61.mp3" length="1813124" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_61</guid>
+      <pubDate>Mon, 24 Aug 2026 05:31:52 GMT</pubDate>
+      <itunes:episode>61</itunes:episode>
+      <itunes:season>7</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L62 — I am speaking (agora) + now/today</title>
+      <description>Nesta lição você aprende a descrever o que acontece agora. Frase do dia: «I am speaking English now.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_62.mp3" length="2155851" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_62</guid>
+      <pubDate>Sun, 30 Aug 2026 19:48:04 GMT</pubDate>
+      <itunes:episode>62</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L63 — continuous: negativo e pergunta</title>
+      <description>Nesta lição você aprende a negar/perguntar o agora. Frase do dia: «Are you working?».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_63.mp3" length="1598920" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_63</guid>
+      <pubDate>Sun, 30 Aug 2026 19:49:59 GMT</pubDate>
+      <itunes:episode>63</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L64 — was / were</title>
+      <description>Nesta lição você aprende a descrever estados no passado. Frase do dia: «I was there.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_64.mp3" length="2270163" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_64</guid>
+      <pubDate>Sun, 30 Aug 2026 20:18:40 GMT</pubDate>
+      <itunes:episode>64</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L65 — Passado: -ed regular</title>
+      <description>Nesta lição você aprende a narrar acoes terminadas (regular). Frase do dia: «I worked yesterday.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_65.mp3" length="2068915" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_65</guid>
+      <pubDate>Sun, 30 Aug 2026 21:18:02 GMT</pubDate>
+      <itunes:episode>65</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L66 — Irregulares essenciais (went/had/said)</title>
+      <description>Nesta lição você aprende a narrar com os irregulares mais comuns. Frase do dia: «I went home.».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_66.mp3" length="1758163" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_66</guid>
+      <pubDate>Mon, 24 Aug 2026 06:02:23 GMT</pubDate>
+      <itunes:episode>66</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L67 — did / didn't</title>
+      <description>Nesta lição você aprende a negar e perguntar no passado. Frase do dia: «Did you see it?».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_67.mp3" length="1965471" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_67</guid>
+      <pubDate>Mon, 24 Aug 2026 05:49:17 GMT</pubDate>
+      <itunes:episode>67</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>L68 — Checkpoint 7 — Antes e depois</title>
+      <description>Nesta lição você aprende a narrar passado e planos, em dialogo. Frase do dia: «Yesterday I... Tomorrow I...».</description>
+      <enclosure url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_68.mp3" length="1544377" type="audio/mpeg"/>
+      <guid isPermaLink="false">lesson_68</guid>
+      <pubDate>Sat, 29 Aug 2026 05:06:08 GMT</pubDate>
+      <itunes:episode>68</itunes:episode>
+      <itunes:season>8</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
