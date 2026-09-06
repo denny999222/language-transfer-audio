@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>English: The Thinking Method</title>
+    <title>Inglês sem Decoreba</title>
     <link>https://github.com/denny999222/language-transfer-audio</link>
     <description>Um curso de inglês para brasileiros que ensina a MONTAR o idioma, não a decorá-lo. Sem listas, sem anotações, sem decoreba — você entende a lógica e fala. Pause, responda em voz alta antes da Bia, e deixe o resto com o professor.</description>
     <language>pt</language>
     <itunes:author>Denny Liang</itunes:author>
+    <itunes:image href="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/cover.jpg"/>
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
