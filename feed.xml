@@ -6,6 +6,11 @@
     <description>Um curso de inglês para brasileiros que ensina a MONTAR o idioma, não a decorá-lo. Sem listas, sem anotações, sem decoreba — você entende a lógica e fala. Pause, responda em voz alta antes da Bia, e deixe o resto com o professor.</description>
     <language>pt</language>
     <itunes:author>Denny Liang</itunes:author>
+    <itunes:owner>
+      <itunes:name>Denny Liang</itunes:name>
+      <itunes:email>denny.liang29@gmail.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>denny.liang29@gmail.com (Denny Liang)</managingEditor>
     <itunes:image href="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/cover.jpg"/>
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
