@@ -1,0 +1,180 @@
+1
+00:00:00,300 --> 00:00:13,257
+Professor: Você já pergunta com 'Do you...?'. Com he, she, it, é a mesma regra — e o mesmo truque do negativo: joga o 'Does' na frente, o 's' pula pro ajudante, e o verbo fica pelado. 'ela fala inglês?':
+
+2
+00:00:13,757 --> 00:00:15,104
+Professor: Does she speak English?
+
+3
+00:00:16,330 --> 00:00:18,141
+Bia: Does she speak English?
+
+4
+00:00:20,117 --> 00:00:30,280
+Professor: Ó — 'Does' na frente com o 's', e o 'speak' pelado. É 'Do you...?' virando 'Does he...?', igualzinho o 'don't' virou 'doesn't'. 'ele trabalha aqui?':
+
+5
+00:00:33,352 --> 00:00:34,745
+Bia: Does he work here?
+
+6
+00:00:35,245 --> 00:00:40,446
+Bia: Ah — então é a mesma história do 'doesn't', o 's' no ajudante e o verbo pelado?
+
+7
+00:00:41,994 --> 00:00:52,768
+Professor: Exato, você mesma ligou! Negar: 'he doesn't work'. Perguntar: 'does he work?'. Nos dois, o 's' tá no ajudante, o verbo relaxa. Uma máquina só. 'ela entende?':
+
+8
+00:00:55,825 --> 00:00:57,404
+Bia: Does she understand?
+
+9
+00:00:59,165 --> 00:01:01,580
+Professor: Agora rápido, cuidado: 'ele trabalha aqui?':
+
+10
+00:01:04,617 --> 00:01:06,010
+Bia: Do he work here?
+
+11
+00:01:06,510 --> 00:01:12,083
+Bia: Hmm... 'do he'? Soou estranho — o he não devia mexer em alguma coisa?
+
+12
+00:01:13,187 --> 00:01:22,057
+Professor: Ó, usou o 'Du' de 'Ai' e 'you' no 'hii'. Com 'hii' é 'Does' — o 's' no ajudante: 'Does he work here?'. De novo:
+
+13
+00:01:25,147 --> 00:01:26,540
+Bia: Does he work here?
+
+14
+00:01:28,176 --> 00:01:33,656
+Professor: Isso. Agora o outro tropeço: 'ele trabalha aqui?', mas cuidado com o 's' no verbo:
+
+15
+00:01:37,482 --> 00:01:39,154
+Bia: Does he works here?
+
+16
+00:01:39,654 --> 00:01:43,973
+Bia: Peraí — botei 's' no 'does' E no 'works'. Dois 's', não é demais?
+
+17
+00:01:45,307 --> 00:01:52,505
+Professor: Quase! O 's' já tá no 'Does' — é um só. O verbo fica pelado: 'Does he work here?'. De novo:
+
+18
+00:01:56,132 --> 00:01:57,525
+Bia: Does he work here?
+
+19
+00:01:58,025 --> 00:02:03,366
+Bia: Ah, saquei — 3a pessoa é 'Does', e o verbo fica pelado. Um 's' só, no ajudante.
+
+20
+00:02:05,231 --> 00:02:09,178
+Professor: Cravou. E a resposta curta: 'ele trabalha? — sim':
+
+21
+00:02:12,574 --> 00:02:13,781
+Bia: Yes, he does.
+
+22
+00:02:16,245 --> 00:02:17,081
+Professor: 'e não':
+
+23
+00:02:20,127 --> 00:02:21,381
+Bia: No, he doesn't.
+
+24
+00:02:23,668 --> 00:02:27,012
+Professor: Agora os dois lado a lado: 'você trabalha, e ele trabalha?':
+
+25
+00:02:30,301 --> 00:02:32,716
+Bia: Do you work, and does he work?
+
+26
+00:02:33,932 --> 00:02:39,644
+Professor: Lindo — 'Do you', 'does he'. E o motor, que vira sozinho: 'ele pode me ajudar?':
+
+27
+00:02:42,761 --> 00:02:44,154
+Bia: Can he help me?
+
+28
+00:02:45,616 --> 00:02:48,310
+Professor: 'ele fala inglês?' — verbo comum, com 'Does':
+
+29
+00:02:52,126 --> 00:02:53,891
+Bia: Does he speak English?
+
+30
+00:02:55,162 --> 00:02:56,091
+Professor: 'ele quer ir?':
+
+31
+00:02:59,672 --> 00:03:01,205
+Bia: Does he want to go?
+
+32
+00:03:03,163 --> 00:03:04,185
+Professor: 'ele tem algum?':
+
+33
+00:03:07,557 --> 00:03:09,647
+Bia: Does he have any?
+
+34
+00:03:11,468 --> 00:03:15,044
+Professor: 'ele sempre trabalha aqui?' — o 'always' na frente do verbo:
+
+35
+00:03:18,106 --> 00:03:19,871
+Bia: Does he always work here?
+
+36
+00:03:20,960 --> 00:03:22,678
+Professor: 'ele nunca fala, mas ele trabalha?':
+
+37
+00:03:25,883 --> 00:03:29,134
+Bia: He never speaks, but does he work?
+
+38
+00:03:31,154 --> 00:03:34,962
+Professor: Junta pergunta e resposta: 'ela fala inglês? — não, não fala':
+
+39
+00:03:38,389 --> 00:03:41,686
+Bia: Does she speak English? No, she doesn't.
+
+40
+00:03:43,157 --> 00:03:46,268
+Professor: E o negativo com a pergunta: 'eu não trabalho, mas ele trabalha?':
+
+41
+00:03:49,853 --> 00:03:52,639
+Bia: I don't work, but does he work?
+
+42
+00:03:54,318 --> 00:03:56,872
+Professor: E fecha: 'ele entende? — sim, entende':
+
+43
+00:04:00,171 --> 00:04:03,468
+Bia: Does he understand? Yes, he does.
+
+44
+00:04:05,659 --> 00:04:28,600
+Professor: Sacou? Com he, she, it, pergunta com 'doz' na frente e o verbo pelado — 'Does she speak English?'. 'Ai', you, we, they, 'Du'. Resposta: 'Yes, he does', 'No, he doesn't'. E ó: você já tem a máquina do DO inteira — nega com don't e doesn't, pergunta com Do e Does. Falta só juntar com o 'onde' e o 'o que' — a próxima.
+
+45
+00:04:30,648 --> 00:04:37,614
+Bia: Boa — 'Does she speak English?'. Um 'Does' pra ele e ela, o verbo pelado. A máquina do DO tá quase completa!
+

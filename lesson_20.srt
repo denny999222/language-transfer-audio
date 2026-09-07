@@ -1,0 +1,168 @@
+1
+00:00:00,300 --> 00:00:22,730
+Professor: Bia, você aprendeu a PERGUNTAR — 'is it possible?'. Agora o par disso: RESPONDER. E chegaram duas palavrinhas que faltavam: 'sim' é 'yes', e — lembra que eu prometi lá no 'não'? — o 'não' de resposta é 'no'. Mas ó: o inglês não responde só 'yes' seco; ele bota um rabinho. 'Sim, é' vira 'Yes, it is'. Escuta:
+
+2
+00:00:23,230 --> 00:00:24,298
+Professor: Yes, it is.
+
+3
+00:00:25,524 --> 00:00:26,824
+Bia: Yes, it is.
+
+4
+00:00:27,324 --> 00:00:35,590
+Bia: Peraí — mas em português eu respondo só 'É'. Por que o inglês precisa desse 'it is' inteiro? Não posso dizer só 'Yes, is'?
+
+5
+00:00:36,698 --> 00:00:56,342
+Professor: Sacada! O português deixa o verbo sozinho — 'É.' — mas o inglês NUNCA deixa o verbinho pelado: ele sempre traz o sujeito junto. Lembra do 'it' de 'it is possible', que não significa nada mas TEM que estar lá? Mesma coisa na resposta: 'Yes, IT is'. Nunca 'Yes, is'.
+
+6
+00:00:56,842 --> 00:01:11,703
+Professor: Repara uma coisa importante: 'Yes, it is' — o 'is' fica INTEIRO. Lembra o aviso lá do 'isn't'? Quando o verbinho é a ÚLTIMA palavra da frase, ele NÃO espreme. Então nunca 'yes it's'; é sempre 'Yes, it is'. E pra dizer que não:
+
+7
+00:01:12,203 --> 00:01:13,271
+Professor: No, it isn't.
+
+8
+00:01:14,357 --> 00:01:15,890
+Bia: No, it isn't.
+
+9
+00:01:17,651 --> 00:01:20,995
+Professor: Agora você faz os dois lados. Pergunta 'é urgente?'
+
+10
+00:01:24,032 --> 00:01:25,332
+Bia: Is it urgent?
+
+11
+00:01:26,982 --> 00:01:27,957
+Professor: Responde que sim.
+
+12
+00:01:31,026 --> 00:01:32,326
+Bia: Yes, it is.
+
+13
+00:01:33,462 --> 00:01:35,087
+Professor: Pergunta 'é uma coisa boa?'
+
+14
+00:01:38,511 --> 00:01:39,997
+Bia: Is it a good thing?
+
+15
+00:01:42,237 --> 00:01:43,166
+Professor: Responde que não.
+
+16
+00:01:46,289 --> 00:01:47,822
+Bia: No, it isn't.
+
+17
+00:01:49,156 --> 00:01:53,846
+Professor: Agora com 'você': 'você é flexível?' — responde que sim, escuta primeiro:
+
+18
+00:01:54,346 --> 00:01:55,414
+Professor: Yes, I am.
+
+19
+00:01:57,835 --> 00:01:59,135
+Bia: Yes, I am.
+
+20
+00:02:01,000 --> 00:02:08,895
+Professor: E que não — aí o 'is not' você já sabe espremer, mas com 'eu' quem espreme é o 'I am': vira 'I'm not'. Escuta:
+
+21
+00:02:09,395 --> 00:02:10,417
+Professor: No, I'm not.
+
+22
+00:02:12,881 --> 00:02:14,088
+Bia: No, I'm not.
+
+23
+00:02:14,588 --> 00:02:26,987
+Bia: Ah, saquei — o inglês traz o sujeito de volta e cola o verbinho nele, inteiro no fim. E o 'you' da pergunta vira 'I' na resposta. 'Yes, it is', 'Yes, I am'.
+
+24
+00:02:29,274 --> 00:02:32,525
+Professor: Isso mesmo. Mistura: pergunta 'é elegante?' e responde que sim.
+
+25
+00:02:35,814 --> 00:02:37,161
+Bia: Is it elegant?
+
+26
+00:02:37,661 --> 00:02:38,961
+Bia: Yes, it is.
+
+27
+00:02:40,137 --> 00:02:47,196
+Professor: Boa. Agora dispara umas perguntas rápido, pra fixar o perguntar — e eu digo quando responder. 'você é flexível?'
+
+28
+00:02:50,504 --> 00:02:51,897
+Bia: Are you flexible?
+
+29
+00:02:54,121 --> 00:02:55,096
+Professor: Responde que sim.
+
+30
+00:02:58,276 --> 00:02:59,576
+Bia: Yes, I am.
+
+31
+00:03:01,448 --> 00:03:02,563
+Professor: 'é uma boa ideia?'
+
+32
+00:03:06,201 --> 00:03:07,780
+Bia: Is it a good idea?
+
+33
+00:03:09,338 --> 00:03:10,453
+Professor: 'você é sensível?'
+
+34
+00:03:14,000 --> 00:03:15,533
+Bia: Are you sensitive?
+
+35
+00:03:16,627 --> 00:03:17,556
+Professor: Responde que não.
+
+36
+00:03:20,615 --> 00:03:21,822
+Bia: No, I'm not.
+
+37
+00:03:23,130 --> 00:03:24,430
+Professor: 'estes são curiosos?'
+
+38
+00:03:28,110 --> 00:03:29,643
+Bia: Are these curious?
+
+39
+00:03:31,284 --> 00:03:35,649
+Professor: Fecha o dia juntando: pergunta e responde. 'É possível? ... Sim, é.'
+
+40
+00:03:38,963 --> 00:03:41,610
+Bia: Is it possible? Yes, it is.
+
+41
+00:03:43,488 --> 00:04:05,222
+Professor: Sacou o dia? Pra responder, o inglês traz o sujeito de volta e gruda o verbinho nele — 'Yes, it is', 'No, it isn't' — inteiro no fim, sem espremer. O 'yes' e o 'no' finalmente na sua mão. E logo a gente abre a porta de vez: perguntar 'o quê', 'onde', 'quem' — pra ir MUITO além de sim e não.
+
+42
+00:04:06,901 --> 00:04:14,053
+Bia: Caramba, e o 'no' de resposta chegou! 'Is it possible? Yes, it is.' — já tô conversando de verdade.
+

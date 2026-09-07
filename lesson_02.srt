@@ -1,0 +1,292 @@
+1
+00:00:00,300 --> 00:00:08,055
+Professor: Bia — pega os adjetivos que você já destravou, os que terminam no som 'vel'. Bora aquecer no 'it is'. 'É incrível'?
+
+2
+00:00:11,378 --> 00:00:12,957
+Bia: It is incredible.
+
+3
+00:00:14,183 --> 00:00:15,065
+Professor: 'É terrível'?
+
+4
+00:00:18,715 --> 00:00:20,155
+Bia: It is terrible.
+
+5
+00:00:21,263 --> 00:00:22,331
+Professor: 'É responsável'?
+
+6
+00:00:25,866 --> 00:00:27,491
+Bia: It is responsible.
+
+7
+00:00:29,039 --> 00:00:30,061
+Professor: 'É confortável'?
+
+8
+00:00:33,118 --> 00:00:34,418
+Bia: It is comfortable.
+
+9
+00:00:36,179 --> 00:00:37,201
+Professor: 'É flexível'?
+
+10
+00:00:40,238 --> 00:00:41,585
+Bia: It is flexible.
+
+11
+00:00:42,085 --> 00:00:43,246
+Bia: Ó, tá voltando fácil!
+
+12
+00:00:44,350 --> 00:00:51,641
+Professor: Isso! Agora repara numa coisa: 'it is' o nativo quase nunca fala separado. Na fala, gruda tudo: 'it is' vira 'it's'. Escuta:
+
+13
+00:00:52,141 --> 00:00:53,209
+Professor: It's possible.
+
+14
+00:00:53,709 --> 00:00:57,378
+Professor: Ouviu como grudou? Agora você, encurta: 'é possível'.
+
+15
+00:01:01,204 --> 00:01:02,597
+Bia: It's possible.
+
+16
+00:01:03,782 --> 00:01:05,315
+Professor: 'É incrível', grudado:
+
+17
+00:01:08,538 --> 00:01:09,931
+Bia: It's incredible.
+
+18
+00:01:10,431 --> 00:01:12,196
+Bia: Ah, é só grudar o 's' no it.
+
+19
+00:01:14,617 --> 00:01:27,620
+Professor: Exato. Os dois valem, mas o grudado soa nativo. Agora, outra família: as palavras que terminam em 'ente' no português — diferente, urgente, importante. Escuta o que o inglês faz com 'diferente':
+
+20
+00:01:28,120 --> 00:01:29,049
+Professor: Different.
+
+21
+00:01:29,549 --> 00:01:42,877
+Professor: Sentiu a mudança? Aquele 'e' lá do fim do 'diferente' sumiu — em inglês a palavra para seca na consoante, sem o 'ê'. É o padrão da família inteira: corta o 'e' do fim. Agora você: 'diferente'?
+
+22
+00:01:46,853 --> 00:01:48,014
+Bia: Different.
+
+23
+00:01:49,083 --> 00:01:52,705
+Professor: 'Urgente' — mesma coisa, corta o 'e' do fim. Manda:
+
+24
+00:01:54,992 --> 00:01:55,689
+Bia: urgent
+
+25
+00:01:57,123 --> 00:02:06,875
+Professor: Quase! Mas essa tem uma manha no som: a força bate no COMEÇO da palavra, não no meio — e aquele 'ur' vira o som 'êr' do inglês, igual no 'her'. Escuta:
+
+26
+00:02:07,375 --> 00:02:08,072
+Professor: Urgent.
+
+27
+00:02:09,248 --> 00:02:10,037
+Bia: Urgent.
+
+28
+00:02:11,499 --> 00:02:12,428
+Professor: 'Inteligente'?
+
+29
+00:02:16,244 --> 00:02:17,405
+Bia: Intelligent.
+
+30
+00:02:18,676 --> 00:02:19,512
+Professor: 'Evidente'?
+
+31
+00:02:23,093 --> 00:02:24,208
+Bia: Evident.
+
+32
+00:02:26,166 --> 00:02:28,395
+Professor: Boa! Agora junta com o 'it's'. 'É diferente'?
+
+33
+00:02:31,767 --> 00:02:32,974
+Bia: It's different.
+
+34
+00:02:34,795 --> 00:02:35,770
+Professor: 'É urgente'?
+
+35
+00:02:38,832 --> 00:02:40,132
+Bia: It's urgent.
+
+36
+00:02:41,221 --> 00:02:45,772
+Professor: Agora eu misturo tudo, sem avisar a família. Só o adjetivo primeiro: 'responsável'?
+
+37
+00:02:48,977 --> 00:02:50,138
+Bia: Responsible.
+
+38
+00:02:52,158 --> 00:02:54,619
+Professor: Isso. Agora frase inteira: 'é possível'?
+
+39
+00:02:58,046 --> 00:02:59,253
+Bia: Is possible?
+
+40
+00:03:00,724 --> 00:03:05,879
+Professor: Opa — comeu o sujeito de novo! Aquele 'it' tem que estar sempre lá na frente. It's possible.
+
+41
+00:03:09,464 --> 00:03:10,857
+Bia: It's possible.
+
+42
+00:03:12,536 --> 00:03:13,929
+Professor: Isso. 'É diferente'?
+
+43
+00:03:17,228 --> 00:03:18,435
+Bia: It's different.
+
+44
+00:03:20,626 --> 00:03:21,508
+Professor: 'É evidente'?
+
+45
+00:03:25,206 --> 00:03:26,553
+Bia: It's evident.
+
+46
+00:03:27,919 --> 00:03:34,560
+Professor: Agora vira o jogo: em vez de EU te dar as palavras, me dá VOCÊ uma que termina no som 'vel'. E você aí em casa também.
+
+47
+00:03:36,421 --> 00:03:40,654
+Bia: Hmm... 'estável'. Pelo padrão seria 'estable'?
+
+48
+00:03:42,441 --> 00:04:09,748
+Professor: Você raciocinou certo — o final vira o som 'bâl'. Mas essa ensina uma manha nova do inglês: quando a palavra começa com 'es' e uma consoante, o inglês corta esse 'e' do começo. Vale pra um monte — pensa em escola, especial, esporte, estudante: no inglês todas perdem esse 'es' inicial. E ainda tem um detalhe no meio: aquele 'a' que no português é um 'ah' abre e vira um 'ei' no inglês. Então a sua 'estável' fica assim:
+
+49
+00:04:10,248 --> 00:04:11,084
+Professor: Stable.
+
+50
+00:04:13,178 --> 00:04:14,107
+Bia: Stable.
+
+51
+00:04:14,607 --> 00:04:19,669
+Bia: Ah — corta o 'es' do começo, e o 'a' abre num 'ei'. Bom saber.
+
+52
+00:04:22,139 --> 00:04:29,569
+Professor: Boa. E essa do 'es' é a exceção esperta — a maioria é limpinha, só o fim. Me dá outra, sem 'es' na frente:
+
+53
+00:04:30,746 --> 00:04:33,904
+Bia: 'flexível'... aí é só o fim, né? 'Flexible'?
+
+54
+00:04:37,322 --> 00:04:38,297
+Professor: Flexible.
+
+55
+00:04:40,432 --> 00:04:41,454
+Bia: Flexible.
+
+56
+00:04:42,681 --> 00:04:48,068
+Professor: Isso — direto, sem manha nenhuma. A regra base segura sozinha; o 'es' foi só um tempero.
+
+57
+00:04:48,568 --> 00:04:58,413
+Professor: Isso: 'es' no começo, o inglês come. E olha o bônus — você não tá decorando lista nenhuma, tá gerando as palavras sozinha. Agora me dá uma que termina em 'ente'.
+
+58
+00:04:59,471 --> 00:05:00,586
+Bia: 'Consistente'...
+
+59
+00:05:01,086 --> 00:05:02,526
+Bia: Consistent?
+
+60
+00:05:04,672 --> 00:05:07,133
+Professor: Perfeito. Bota na frase: 'é consistente'?
+
+61
+00:05:10,706 --> 00:05:12,192
+Bia: It's consistent.
+
+62
+00:05:14,505 --> 00:05:31,084
+Professor: Sacou o tamanho disso? Cada palavra que você já sabe em português com esses dois finais, você ganhou de graça em inglês. Um aviso honesto, só pra chutar com segurança: a escrita às vezes troca uma vogal no fim — confia no som, não na letra. Chuta com fé, confere com calma.
+
+63
+00:05:32,554 --> 00:05:39,195
+Bia: Mas peraí — eu nunca vejo a letra, aprendo tudo de ouvido. Esse aviso da escrita serve pra quê pra mim?
+
+64
+00:05:41,237 --> 00:05:54,751
+Professor: Boa — e a resposta te deixa relaxar: de ouvido, o som já te entrega a palavra certa, não precisa da letra. Esse aviso fica no bolso pra quando você for LER ou ESCREVER inglês lá na frente; aí ele te salva. Por agora, ouvido no comando.
+
+65
+00:05:56,642 --> 00:06:00,961
+Bia: Beleza. Duas famílias e o 'it's' grudado. Tô me sentindo perigosa.
+
+66
+00:06:02,830 --> 00:06:05,152
+Professor: Fecha comigo, misturando: 'é possível'?
+
+67
+00:06:08,608 --> 00:06:10,001
+Bia: It's possible.
+
+68
+00:06:12,260 --> 00:06:13,189
+Professor: 'É diferente'?
+
+69
+00:06:17,133 --> 00:06:18,340
+Bia: It's different.
+
+70
+00:06:20,051 --> 00:06:20,887
+Professor: 'É incrível'?
+
+71
+00:06:24,551 --> 00:06:25,944
+Bia: It's incredible.
+
+72
+00:06:27,035 --> 00:06:32,097
+Professor: Isso. Duas famílias abertas e o 'it's' grudado — você já descreve pra caramba de coisa.
+
+73
+00:06:34,149 --> 00:06:37,678
+Bia: Tô dentro. Cada dia isso aqui fica menos assustador.
+

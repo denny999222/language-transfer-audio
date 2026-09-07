@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
     <title>Inglês: O Método de Pensar</title>
     <link>https://github.com/denny999222/language-transfer-audio</link>
-    <description>Um curso de inglês para brasileiros que ensina a MONTAR o idioma, não a decorá-lo. Sem listas, sem anotações, sem decoreba — você entende a lógica e fala. Pause, responda em voz alta antes da Bia, e deixe o resto com o professor.</description>
+    <description>Um curso de inglês conversacional para falantes de português brasileiro, construído no método Language Transfer / Michel Thomas.</description>
     <language>pt</language>
     <itunes:author>Denny Liang</itunes:author>
     <itunes:owner>
@@ -22,6 +22,7 @@
       <guid isPermaLink="false">lesson_00</guid>
       <pubDate>Tue, 30 Jun 2026 09:00:00 GMT</pubDate>
       <itunes:duration>236</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_00.srt" type="application/srt" rel="captions"/>
       <itunes:episode>0</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -33,6 +34,7 @@
       <guid isPermaLink="false">lesson_01</guid>
       <pubDate>Wed, 01 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>367</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_01.srt" type="application/srt" rel="captions"/>
       <itunes:episode>1</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -44,6 +46,7 @@
       <guid isPermaLink="false">lesson_02</guid>
       <pubDate>Thu, 02 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>398</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_02.srt" type="application/srt" rel="captions"/>
       <itunes:episode>2</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -55,6 +58,7 @@
       <guid isPermaLink="false">lesson_03</guid>
       <pubDate>Fri, 03 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>331</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_03.srt" type="application/srt" rel="captions"/>
       <itunes:episode>3</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -66,6 +70,7 @@
       <guid isPermaLink="false">lesson_04</guid>
       <pubDate>Sat, 04 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>385</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_04.srt" type="application/srt" rel="captions"/>
       <itunes:episode>4</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -77,6 +82,7 @@
       <guid isPermaLink="false">lesson_05</guid>
       <pubDate>Sun, 05 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>274</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_05.srt" type="application/srt" rel="captions"/>
       <itunes:episode>5</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -88,6 +94,7 @@
       <guid isPermaLink="false">lesson_06</guid>
       <pubDate>Mon, 06 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>272</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_06.srt" type="application/srt" rel="captions"/>
       <itunes:episode>6</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -99,6 +106,7 @@
       <guid isPermaLink="false">lesson_07</guid>
       <pubDate>Tue, 07 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>225</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_07.srt" type="application/srt" rel="captions"/>
       <itunes:episode>7</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -110,6 +118,7 @@
       <guid isPermaLink="false">lesson_08</guid>
       <pubDate>Wed, 08 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>245</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_08.srt" type="application/srt" rel="captions"/>
       <itunes:episode>8</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -121,6 +130,7 @@
       <guid isPermaLink="false">lesson_09</guid>
       <pubDate>Thu, 09 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>303</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_09.srt" type="application/srt" rel="captions"/>
       <itunes:episode>9</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -132,6 +142,7 @@
       <guid isPermaLink="false">lesson_10</guid>
       <pubDate>Fri, 10 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>199</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_10.srt" type="application/srt" rel="captions"/>
       <itunes:episode>10</itunes:episode>
       <itunes:season>2</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -143,6 +154,7 @@
       <guid isPermaLink="false">lesson_11</guid>
       <pubDate>Sat, 11 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>291</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_11.srt" type="application/srt" rel="captions"/>
       <itunes:episode>11</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -154,6 +166,7 @@
       <guid isPermaLink="false">lesson_12</guid>
       <pubDate>Sun, 12 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>367</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_12.srt" type="application/srt" rel="captions"/>
       <itunes:episode>12</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -165,6 +178,7 @@
       <guid isPermaLink="false">lesson_13</guid>
       <pubDate>Mon, 13 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>291</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_13.srt" type="application/srt" rel="captions"/>
       <itunes:episode>13</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -176,6 +190,7 @@
       <guid isPermaLink="false">lesson_14</guid>
       <pubDate>Tue, 14 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>453</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_14.srt" type="application/srt" rel="captions"/>
       <itunes:episode>14</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -187,6 +202,7 @@
       <guid isPermaLink="false">lesson_15</guid>
       <pubDate>Wed, 15 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>313</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_15.srt" type="application/srt" rel="captions"/>
       <itunes:episode>15</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -198,6 +214,7 @@
       <guid isPermaLink="false">lesson_16</guid>
       <pubDate>Thu, 16 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>276</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_16.srt" type="application/srt" rel="captions"/>
       <itunes:episode>16</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -209,6 +226,7 @@
       <guid isPermaLink="false">lesson_17</guid>
       <pubDate>Fri, 17 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>276</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_17.srt" type="application/srt" rel="captions"/>
       <itunes:episode>17</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -220,6 +238,7 @@
       <guid isPermaLink="false">lesson_18</guid>
       <pubDate>Sat, 18 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>327</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_18.srt" type="application/srt" rel="captions"/>
       <itunes:episode>18</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -231,6 +250,7 @@
       <guid isPermaLink="false">lesson_19</guid>
       <pubDate>Sun, 19 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>250</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_19.srt" type="application/srt" rel="captions"/>
       <itunes:episode>19</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -242,6 +262,7 @@
       <guid isPermaLink="false">lesson_20</guid>
       <pubDate>Mon, 20 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>254</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_20.srt" type="application/srt" rel="captions"/>
       <itunes:episode>20</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -253,6 +274,7 @@
       <guid isPermaLink="false">lesson_21</guid>
       <pubDate>Tue, 21 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>226</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_21.srt" type="application/srt" rel="captions"/>
       <itunes:episode>21</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -264,6 +286,7 @@
       <guid isPermaLink="false">lesson_22</guid>
       <pubDate>Wed, 22 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>244</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_22.srt" type="application/srt" rel="captions"/>
       <itunes:episode>22</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -275,6 +298,7 @@
       <guid isPermaLink="false">lesson_23</guid>
       <pubDate>Thu, 23 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>264</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_23.srt" type="application/srt" rel="captions"/>
       <itunes:episode>23</itunes:episode>
       <itunes:season>3</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -286,6 +310,7 @@
       <guid isPermaLink="false">lesson_24</guid>
       <pubDate>Fri, 24 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>400</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_24.srt" type="application/srt" rel="captions"/>
       <itunes:episode>24</itunes:episode>
       <itunes:season>4</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -297,6 +322,7 @@
       <guid isPermaLink="false">lesson_25</guid>
       <pubDate>Sat, 25 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>275</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_25.srt" type="application/srt" rel="captions"/>
       <itunes:episode>25</itunes:episode>
       <itunes:season>4</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -308,6 +334,7 @@
       <guid isPermaLink="false">lesson_26</guid>
       <pubDate>Sun, 26 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>402</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_26.srt" type="application/srt" rel="captions"/>
       <itunes:episode>26</itunes:episode>
       <itunes:season>4</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -319,6 +346,7 @@
       <guid isPermaLink="false">lesson_27</guid>
       <pubDate>Mon, 27 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>379</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_27.srt" type="application/srt" rel="captions"/>
       <itunes:episode>27</itunes:episode>
       <itunes:season>4</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -330,6 +358,7 @@
       <guid isPermaLink="false">lesson_28</guid>
       <pubDate>Tue, 28 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>323</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_28.srt" type="application/srt" rel="captions"/>
       <itunes:episode>28</itunes:episode>
       <itunes:season>4</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -341,6 +370,7 @@
       <guid isPermaLink="false">lesson_29</guid>
       <pubDate>Wed, 29 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>302</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_29.srt" type="application/srt" rel="captions"/>
       <itunes:episode>29</itunes:episode>
       <itunes:season>4</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -352,6 +382,7 @@
       <guid isPermaLink="false">lesson_30</guid>
       <pubDate>Thu, 30 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>223</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_30.srt" type="application/srt" rel="captions"/>
       <itunes:episode>30</itunes:episode>
       <itunes:season>4</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -363,6 +394,7 @@
       <guid isPermaLink="false">lesson_31</guid>
       <pubDate>Fri, 31 Jul 2026 09:00:00 GMT</pubDate>
       <itunes:duration>289</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_31.srt" type="application/srt" rel="captions"/>
       <itunes:episode>31</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -374,6 +406,7 @@
       <guid isPermaLink="false">lesson_32</guid>
       <pubDate>Sat, 01 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>286</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_32.srt" type="application/srt" rel="captions"/>
       <itunes:episode>32</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -385,6 +418,7 @@
       <guid isPermaLink="false">lesson_33</guid>
       <pubDate>Sun, 02 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>260</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_33.srt" type="application/srt" rel="captions"/>
       <itunes:episode>33</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -396,6 +430,7 @@
       <guid isPermaLink="false">lesson_34</guid>
       <pubDate>Mon, 03 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>296</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_34.srt" type="application/srt" rel="captions"/>
       <itunes:episode>34</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -407,6 +442,7 @@
       <guid isPermaLink="false">lesson_35</guid>
       <pubDate>Tue, 04 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>265</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_35.srt" type="application/srt" rel="captions"/>
       <itunes:episode>35</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -418,6 +454,7 @@
       <guid isPermaLink="false">lesson_36</guid>
       <pubDate>Wed, 05 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>314</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_36.srt" type="application/srt" rel="captions"/>
       <itunes:episode>36</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -429,6 +466,7 @@
       <guid isPermaLink="false">lesson_37</guid>
       <pubDate>Thu, 06 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>255</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_37.srt" type="application/srt" rel="captions"/>
       <itunes:episode>37</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -440,6 +478,7 @@
       <guid isPermaLink="false">lesson_38</guid>
       <pubDate>Fri, 07 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>198</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_38.srt" type="application/srt" rel="captions"/>
       <itunes:episode>38</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -451,6 +490,7 @@
       <guid isPermaLink="false">lesson_39</guid>
       <pubDate>Sat, 08 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>245</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_39.srt" type="application/srt" rel="captions"/>
       <itunes:episode>39</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -462,6 +502,7 @@
       <guid isPermaLink="false">lesson_40</guid>
       <pubDate>Sun, 09 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>314</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_40.srt" type="application/srt" rel="captions"/>
       <itunes:episode>40</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -473,6 +514,7 @@
       <guid isPermaLink="false">lesson_41</guid>
       <pubDate>Mon, 10 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>226</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_41.srt" type="application/srt" rel="captions"/>
       <itunes:episode>41</itunes:episode>
       <itunes:season>5</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -484,6 +526,7 @@
       <guid isPermaLink="false">lesson_42</guid>
       <pubDate>Tue, 11 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>236</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_42.srt" type="application/srt" rel="captions"/>
       <itunes:episode>42</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -495,6 +538,7 @@
       <guid isPermaLink="false">lesson_43</guid>
       <pubDate>Wed, 12 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>243</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_43.srt" type="application/srt" rel="captions"/>
       <itunes:episode>43</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -506,6 +550,7 @@
       <guid isPermaLink="false">lesson_44</guid>
       <pubDate>Thu, 13 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>328</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_44.srt" type="application/srt" rel="captions"/>
       <itunes:episode>44</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -517,6 +562,7 @@
       <guid isPermaLink="false">lesson_45</guid>
       <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>258</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_45.srt" type="application/srt" rel="captions"/>
       <itunes:episode>45</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -528,6 +574,7 @@
       <guid isPermaLink="false">lesson_46</guid>
       <pubDate>Sat, 15 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>315</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_46.srt" type="application/srt" rel="captions"/>
       <itunes:episode>46</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -539,6 +586,7 @@
       <guid isPermaLink="false">lesson_47</guid>
       <pubDate>Sun, 16 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>292</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_47.srt" type="application/srt" rel="captions"/>
       <itunes:episode>47</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -550,6 +598,7 @@
       <guid isPermaLink="false">lesson_48</guid>
       <pubDate>Mon, 17 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>281</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_48.srt" type="application/srt" rel="captions"/>
       <itunes:episode>48</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -561,6 +610,7 @@
       <guid isPermaLink="false">lesson_49</guid>
       <pubDate>Tue, 18 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>248</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_49.srt" type="application/srt" rel="captions"/>
       <itunes:episode>49</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -572,6 +622,7 @@
       <guid isPermaLink="false">lesson_50</guid>
       <pubDate>Wed, 19 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>238</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_50.srt" type="application/srt" rel="captions"/>
       <itunes:episode>50</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -583,6 +634,7 @@
       <guid isPermaLink="false">lesson_51</guid>
       <pubDate>Thu, 20 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>188</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_51.srt" type="application/srt" rel="captions"/>
       <itunes:episode>51</itunes:episode>
       <itunes:season>6</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -594,6 +646,7 @@
       <guid isPermaLink="false">lesson_52</guid>
       <pubDate>Fri, 21 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>297</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_52.srt" type="application/srt" rel="captions"/>
       <itunes:episode>52</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -605,6 +658,7 @@
       <guid isPermaLink="false">lesson_53</guid>
       <pubDate>Sat, 22 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>274</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_53.srt" type="application/srt" rel="captions"/>
       <itunes:episode>53</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -616,6 +670,7 @@
       <guid isPermaLink="false">lesson_54</guid>
       <pubDate>Sun, 23 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>305</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_54.srt" type="application/srt" rel="captions"/>
       <itunes:episode>54</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -627,6 +682,7 @@
       <guid isPermaLink="false">lesson_55</guid>
       <pubDate>Mon, 24 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>307</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_55.srt" type="application/srt" rel="captions"/>
       <itunes:episode>55</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -638,6 +694,7 @@
       <guid isPermaLink="false">lesson_56</guid>
       <pubDate>Tue, 25 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>359</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_56.srt" type="application/srt" rel="captions"/>
       <itunes:episode>56</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -649,6 +706,7 @@
       <guid isPermaLink="false">lesson_57</guid>
       <pubDate>Wed, 26 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>274</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_57.srt" type="application/srt" rel="captions"/>
       <itunes:episode>57</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -660,6 +718,7 @@
       <guid isPermaLink="false">lesson_58</guid>
       <pubDate>Thu, 27 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>248</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_58.srt" type="application/srt" rel="captions"/>
       <itunes:episode>58</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -671,6 +730,7 @@
       <guid isPermaLink="false">lesson_59</guid>
       <pubDate>Fri, 28 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>278</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_59.srt" type="application/srt" rel="captions"/>
       <itunes:episode>59</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -682,6 +742,7 @@
       <guid isPermaLink="false">lesson_60</guid>
       <pubDate>Sat, 29 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>257</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_60.srt" type="application/srt" rel="captions"/>
       <itunes:episode>60</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -693,6 +754,7 @@
       <guid isPermaLink="false">lesson_61</guid>
       <pubDate>Sun, 30 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>227</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_61.srt" type="application/srt" rel="captions"/>
       <itunes:episode>61</itunes:episode>
       <itunes:season>7</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -704,6 +766,7 @@
       <guid isPermaLink="false">lesson_62</guid>
       <pubDate>Mon, 31 Aug 2026 09:00:00 GMT</pubDate>
       <itunes:duration>269</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_62.srt" type="application/srt" rel="captions"/>
       <itunes:episode>62</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -715,6 +778,7 @@
       <guid isPermaLink="false">lesson_63</guid>
       <pubDate>Tue, 01 Sep 2026 09:00:00 GMT</pubDate>
       <itunes:duration>200</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_63.srt" type="application/srt" rel="captions"/>
       <itunes:episode>63</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -726,6 +790,7 @@
       <guid isPermaLink="false">lesson_64</guid>
       <pubDate>Wed, 02 Sep 2026 09:00:00 GMT</pubDate>
       <itunes:duration>284</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_64.srt" type="application/srt" rel="captions"/>
       <itunes:episode>64</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -737,6 +802,7 @@
       <guid isPermaLink="false">lesson_65</guid>
       <pubDate>Thu, 03 Sep 2026 09:00:00 GMT</pubDate>
       <itunes:duration>259</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_65.srt" type="application/srt" rel="captions"/>
       <itunes:episode>65</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -748,6 +814,7 @@
       <guid isPermaLink="false">lesson_66</guid>
       <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
       <itunes:duration>220</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_66.srt" type="application/srt" rel="captions"/>
       <itunes:episode>66</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -759,6 +826,7 @@
       <guid isPermaLink="false">lesson_67</guid>
       <pubDate>Sat, 05 Sep 2026 09:00:00 GMT</pubDate>
       <itunes:duration>246</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_67.srt" type="application/srt" rel="captions"/>
       <itunes:episode>67</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
@@ -770,6 +838,7 @@
       <guid isPermaLink="false">lesson_68</guid>
       <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
       <itunes:duration>193</itunes:duration>
+      <podcast:transcript url="https://raw.githubusercontent.com/denny999222/language-transfer-audio/main/lesson_68.srt" type="application/srt" rel="captions"/>
       <itunes:episode>68</itunes:episode>
       <itunes:season>8</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>

@@ -1,0 +1,172 @@
+1
+00:00:00,300 --> 00:00:15,764
+Professor: Você já tem a máquina: 'Do you live here?'. Agora é só botar a palavra de pergunta NA FRENTE. 'onde' é 'where'. Em português, 'onde você mora?' — só o 'onde' e o resto, sem ajudante. O inglês mantém o 'do' ali: 'onde você mora?':
+
+2
+00:00:16,264 --> 00:00:17,379
+Professor: Where do you live?
+
+3
+00:00:18,605 --> 00:00:20,138
+Bia: Where do you live?
+
+4
+00:00:20,638 --> 00:00:24,214
+Bia: Ah — então é só grudar o 'where' na frente do 'do you live'?
+
+5
+00:00:25,322 --> 00:00:36,538
+Professor: Exato, pegou na hora! A palavra de pergunta entra na frente, o 'Di' e o 'Does' continuam iguais, o verbo pelado. E olha essa famosa, com DOIS 'du': 'o que você faz?':
+
+6
+00:00:37,038 --> 00:00:38,013
+Professor: What do you do?
+
+7
+00:00:39,561 --> 00:00:40,676
+Bia: What do you do?
+
+8
+00:00:41,762 --> 00:00:55,648
+Professor: Ó os dois 'do' — 'what DO you DO?'. O primeiro é o ajudante, o segundo é o 'fazer'. É a pergunta que todo mundo faz quando te conhece — qual é o seu trampo. Agora a palavra nova: 'quando' é 'when'. 'quando você trabalha?':
+
+9
+00:00:59,155 --> 00:01:00,502
+Bia: When do you work?
+
+10
+00:01:01,558 --> 00:01:03,787
+Professor: Agora rápido, cuidado: 'onde você mora?':
+
+11
+00:01:07,220 --> 00:01:08,520
+Bia: Where you live?
+
+12
+00:01:09,020 --> 00:01:12,921
+Bia: Hmm... ficou com cara de português. Faltou alguma coisa?
+
+13
+00:01:14,057 --> 00:01:21,812
+Professor: Ó, sumiu o 'do'! Em português não tem ajudante, mas o inglês mantém ele depois do 'where': 'Where do you live?'. De novo:
+
+14
+00:01:25,236 --> 00:01:26,769
+Bia: Where do you live?
+
+15
+00:01:27,269 --> 00:01:31,588
+Bia: Saquei — a palavra de pergunta entra na frente, mas o 'do' continua lá.
+
+16
+00:01:32,773 --> 00:01:35,745
+Professor: Cravou. Roda as palavras: 'por que você quer ir?':
+
+17
+00:01:38,968 --> 00:01:40,501
+Bia: Why do you want to go?
+
+18
+00:01:42,442 --> 00:01:44,625
+Professor: 'eu não entendo, então como você sabe?':
+
+19
+00:01:48,572 --> 00:01:51,591
+Bia: I don't understand, so how do you know?
+
+20
+00:01:53,456 --> 00:01:56,567
+Professor: Agora com he, o 'do' vira 'does': 'onde ele mora?':
+
+21
+00:01:59,963 --> 00:02:01,403
+Bia: Where does he live?
+
+22
+00:02:03,867 --> 00:02:06,700
+Professor: 'ele não trabalha aqui, então quando ele trabalha?':
+
+23
+00:02:09,746 --> 00:02:12,625
+Bia: He doesn't work here, so when does he work?
+
+24
+00:02:14,912 --> 00:02:18,720
+Professor: Agora o outro tropeço: 'o que você faz?', não esquece o ajudante:
+
+25
+00:02:22,009 --> 00:02:23,216
+Bia: What you do?
+
+26
+00:02:23,716 --> 00:02:25,806
+Bia: De novo, né? Acho que escorreguei no 'do'.
+
+27
+00:02:26,982 --> 00:02:30,186
+Professor: Faltou o 'do' de novo! É 'What do you do?'. De novo:
+
+28
+00:02:33,494 --> 00:02:34,609
+Bia: What do you do?
+
+29
+00:02:35,109 --> 00:02:41,193
+Bia: Peraí — e pra perguntar 'onde você tá', do 'bi'? Boto 'du' também — 'where do you are'?
+
+30
+00:02:42,464 --> 00:02:50,034
+Professor: Ó que pergunta boa — e NÃO! Com o 'be' não tem ajudante, ele vira sozinho, que nem você já fazia. 'onde você tá?':
+
+31
+00:02:53,615 --> 00:02:54,776
+Bia: Where are you?
+
+32
+00:02:56,734 --> 00:03:00,031
+Professor: E com verbo comum, o 'do' fica: 'onde você mora?':
+
+33
+00:03:03,403 --> 00:03:04,936
+Bia: Where do you live?
+
+34
+00:03:06,757 --> 00:03:13,444
+Professor: Sentiu? 'Where are you?' sem 'du', 'Where do you live?' com 'du'. 'o que você quer fazer?':
+
+35
+00:03:16,506 --> 00:03:17,992
+Bia: What do you want to do?
+
+36
+00:03:19,081 --> 00:03:21,171
+Professor: 'ela não fala inglês, mas por que ela quer ir?':
+
+37
+00:03:24,376 --> 00:03:28,091
+Bia: She doesn't speak English, but why does she want to go?
+
+38
+00:03:30,111 --> 00:03:33,269
+Professor: E junta: 'ele não trabalha aqui, então onde ele trabalha?':
+
+39
+00:03:36,696 --> 00:03:39,807
+Bia: He doesn't work here, so where does he work?
+
+40
+00:03:41,278 --> 00:03:44,668
+Professor: E fecha com a pergunta que abre toda conversa: 'o que você faz?':
+
+41
+00:03:48,253 --> 00:03:49,368
+Bia: What do you do?
+
+42
+00:03:51,047 --> 00:04:07,905
+Professor: Sacou? Pergunta com palavra — where, what, when, why, how — é só a palavra na frente, e o Do e o Does continuam, o verbo pelado. Com o 'be' não tem 'do'. E pronto: a máquina do 'Du' tá COMPLETA — nega, pergunta, e agora com as palavras de pergunta.
+
+43
+00:04:09,354 --> 00:04:16,784
+Bia: Boa — 'Where do you live?', 'What do you do?'. Agora eu pergunto de tudo. Fechei a máquina do DO!
+

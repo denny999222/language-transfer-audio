@@ -1,0 +1,168 @@
+1
+00:00:00,300 --> 00:00:09,867
+Professor: Você já tem o 'have' de posse — 'I have a car'. Mas lembra que eu falei que o 'ter' faz OUTRA coisa? O 'tem' de EXISTIR. Chuta 'tem um problema aqui':
+
+2
+00:00:13,190 --> 00:00:14,583
+Bia: It has a problem.
+
+3
+00:00:15,809 --> 00:00:27,047
+Professor: Ó o 'tem'! 'tem' aqui é EXISTIR, não possuir. 'It has' é 'ele possui' — errado. Isso em inglês é 'there is' — 'existe'. Escuta:
+
+4
+00:00:27,547 --> 00:00:28,894
+Professor: There is a problem.
+
+5
+00:00:30,002 --> 00:00:31,349
+Bia: There is a problem.
+
+6
+00:00:31,849 --> 00:00:36,400
+Bia: Peraí — 'there' não é 'lá', de lugar? Soa tipo 'lá é um problema'.
+
+7
+00:00:37,948 --> 00:00:54,620
+Professor: Boa pergunta — mas aqui não é lugar. Lembra do 'it' de 'it is possible'? Um sujeito curinga, que não aponta pra nada, só ocupa o lugar do sujeito. O 'there' é o mesmo truque, pra dizer que algo EXISTE. 'there is' quer dizer 'existe', não 'lá'.
+
+8
+00:00:55,706 --> 00:01:01,929
+Bia: Ah — então 'there' é tipo o 'it': um encosto que segura o sujeito. Não é 'lá'.
+
+9
+00:01:03,690 --> 00:01:10,842
+Professor: Isso mesmo. E repara: 'tenho' (posse) é 'have'; 'tem' (existir) é 'there is'. 'tem um problema':
+
+10
+00:01:13,879 --> 00:01:15,226
+Bia: There is a problem.
+
+11
+00:01:16,876 --> 00:01:17,851
+Professor: 'tem um carro':
+
+12
+00:01:20,920 --> 00:01:22,267
+Bia: There is a car.
+
+13
+00:01:23,403 --> 00:01:24,378
+Professor: 'tem uma ideia':
+
+14
+00:01:27,802 --> 00:01:29,381
+Bia: There is an idea.
+
+15
+00:01:31,621 --> 00:01:32,689
+Professor: 'tem uma coisa':
+
+16
+00:01:35,812 --> 00:01:37,159
+Bia: There is a thing.
+
+17
+00:01:38,493 --> 00:01:44,855
+Professor: Agora ó: 'tem DOIS problemas'. Você já sabe o 'is' virar 'are' quando é mais de um. Então chuta você:
+
+18
+00:01:48,482 --> 00:01:50,293
+Bia: There are two problems.
+
+19
+00:01:52,714 --> 00:01:54,781
+Professor: Sozinha! 'tem três carros':
+
+20
+00:01:58,358 --> 00:02:00,076
+Bia: There are three cars.
+
+21
+00:02:01,671 --> 00:02:02,693
+Professor: 'tem dois amigos':
+
+22
+00:02:06,669 --> 00:02:08,341
+Bia: There are two friends.
+
+23
+00:02:09,410 --> 00:02:13,497
+Professor: Agora junta posse e existência: 'eu tenho um problema, mas tem uma ideia':
+
+24
+00:02:17,355 --> 00:02:20,141
+Bia: I have a problem, but there is an idea.
+
+25
+00:02:21,575 --> 00:02:23,851
+Professor: 'tem um amigo aqui, e ele tem um carro':
+
+26
+00:02:26,995 --> 00:02:29,828
+Bia: There is a friend here, and he has a car.
+
+27
+00:02:31,004 --> 00:02:32,815
+Professor: 'tem dois carros, mas eu tenho três':
+
+28
+00:02:36,123 --> 00:02:39,142
+Bia: There are two cars, but I have three.
+
+29
+00:02:41,366 --> 00:02:42,852
+Professor: 'tem uma ideia, e é boa':
+
+30
+00:02:46,032 --> 00:02:48,493
+Bia: There is an idea, and it's good.
+
+31
+00:02:50,365 --> 00:02:52,408
+Professor: 'tem três problemas, e eu tenho dois':
+
+32
+00:02:56,046 --> 00:02:59,111
+Bia: There are three problems, and I have two.
+
+33
+00:03:00,669 --> 00:03:02,516
+Professor: 'tem dois carros, e são vermelhos':
+
+34
+00:03:06,063 --> 00:03:08,524
+Bia: There are two cars, and they are red.
+
+35
+00:03:09,618 --> 00:03:14,680
+Professor: Agora uma grandona, devagar: 'tem um problema, e eu tenho um amigo, e ele pode ajudar':
+
+36
+00:03:17,739 --> 00:03:22,940
+Bia: There is a problem, and I have a friend, and... umm...
+
+37
+00:03:24,248 --> 00:03:27,034
+Professor: Isso — e fecha: ele pode ajudar.
+
+38
+00:03:30,714 --> 00:03:35,172
+Bia: There is a problem, and I have a friend, and he can help.
+
+39
+00:03:36,813 --> 00:03:51,813
+Professor: Sacou? 'tem' de existir é 'there is' (um) ou 'there are' (vários) — aquele curinga 'there', igual ao 'it', não um lugar. E o 'ter' tá completo: 'have' pra posse, 'there is' pra existir — dois empregos, um verbo só em português.
+
+40
+00:03:53,284 --> 00:03:57,278
+Bia: E aquele 'há' todo formal — 'há um problema'? É isso também?
+
+41
+00:03:59,156 --> 00:04:10,673
+Professor: É a versão escrita, chique, da mesma ideia. Mas na fala? Ninguém diz 'há', todo mundo diz 'tem'. Então 'there is' é o seu 'tem' — você tá falando como brasileiro fala.
+
+42
+00:04:12,352 --> 00:04:17,785
+Bia: Boa — 'there is a problem'. Agora eu digo o que TEM no mundo, não só o que eu tenho.
+

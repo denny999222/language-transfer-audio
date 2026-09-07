@@ -1,0 +1,188 @@
+1
+00:00:00,300 --> 00:00:10,377
+Professor: Você já se apresenta: 'Hello! My name is Bia.' Agora vem a próxima coisa que todo mundo pergunta: de ONDE você é. A palavrinha 'de', pra origem, em inglês é 'from':
+
+2
+00:00:10,877 --> 00:00:11,481
+Professor: From.
+
+3
+00:00:11,981 --> 00:00:17,693
+Professor: E o país. Brasil é 'Brazil' — com um som de 'z' no meio, e a força vai na segunda sílaba. Escuta:
+
+4
+00:00:18,193 --> 00:00:19,215
+Professor: Brazil.
+
+5
+00:00:20,323 --> 00:00:21,298
+Bia: Brazil.
+
+6
+00:00:23,101 --> 00:00:29,370
+Professor: Agora: 'eu sou do Brasil'. Você tem o 'I am' — junta com 'from Brazil'. Chuta.
+
+7
+00:00:32,735 --> 00:00:34,407
+Bia: I am from the Brazil?
+
+8
+00:00:35,493 --> 00:00:43,295
+Professor: Quase! Em português é 'DO Brasil' — tem o artigo, 'o Brasil'. Em inglês o país vai pelado, sem 'the'. É só:
+
+9
+00:00:43,795 --> 00:00:45,002
+Professor: I am from Brazil.
+
+10
+00:00:46,058 --> 00:00:47,591
+Bia: I am from Brazil.
+
+11
+00:00:49,241 --> 00:00:51,656
+Professor: E encurtando o 'I am', como você já faz:
+
+12
+00:00:54,725 --> 00:00:56,258
+Bia: I'm from Brazil.
+
+13
+00:00:57,394 --> 00:01:02,224
+Professor: Agora junta com a apresentação inteira: 'oi, o meu nome é Bia, eu sou do Brasil.'
+
+14
+00:01:05,648 --> 00:01:09,131
+Bia: Hello! My name is Bia. I'm from Brazil.
+
+15
+00:01:11,371 --> 00:01:18,888
+Professor: OLHA ISSO — uma apresentação de verdade. Agora a pergunta pro outro lado: 'de onde você é?'. Chuta em inglês:
+
+16
+00:01:22,011 --> 00:01:23,404
+Bia: From where are you?
+
+17
+00:01:24,738 --> 00:01:44,150
+Professor: Boa — 'from where' juntinho é o instinto português, e em inglês até existe, mas soa formal. Sente a lógica: no 'I am from Brazil', o 'from' mora colado ali no fim, do lado do lugar. Quando o 'where' pula pra frente pra fazer a pergunta, o 'from' fica pra trás, onde ele sempre morou. Escuta:
+
+18
+00:01:44,650 --> 00:01:45,718
+Professor: Where are you from?
+
+19
+00:01:48,139 --> 00:01:49,625
+Bia: Where are you from?
+
+20
+00:01:50,125 --> 00:01:58,995
+Bia: Ué — mas o 'from' foi lá pro FIM?? Em português os dois vêm juntos na frente — 'DE onde você é'. Soa doido deixar ele largado sozinho no fim.
+
+21
+00:02:00,590 --> 00:02:19,212
+Professor: É exatamente o que salta aos ouvidos. O português cola os dois na frente — 'DE onde você é'; o inglês manda o 'where' pra frente e larga o 'from' pra trás, sozinho. Mesma pergunta, o 'de' em pontas opostas — bem a cara do inglês, e você vai reencontrar. Agora responde: de onde VOCÊ é?
+
+22
+00:02:23,188 --> 00:02:24,721
+Bia: I'm from Brazil.
+
+23
+00:02:25,790 --> 00:02:31,084
+Professor: Agora rotaciona os sujeitos. Falando de uma coisa, um produto: 'é do Brasil?'
+
+24
+00:02:34,942 --> 00:02:36,567
+Bia: Is it from Brazil?
+
+25
+00:02:38,001 --> 00:02:39,116
+Professor: 'isto é do Brasil'.
+
+26
+00:02:42,260 --> 00:02:43,932
+Bia: This is from Brazil.
+
+27
+00:02:45,108 --> 00:02:46,269
+Professor: 'aquilo é do Brasil'.
+
+28
+00:02:49,577 --> 00:02:51,156
+Bia: That is from Brazil.
+
+29
+00:02:53,380 --> 00:02:54,495
+Professor: 'você é do Brasil?'
+
+30
+00:02:57,675 --> 00:02:59,347
+Bia: Are you from Brazil?
+
+31
+00:03:01,219 --> 00:03:02,241
+Professor: Responde que sim:
+
+32
+00:03:05,879 --> 00:03:06,947
+Bia: Yes, I am.
+
+33
+00:03:08,505 --> 00:03:10,595
+Professor: E no plural: 'estes são do Brasil?'
+
+34
+00:03:14,142 --> 00:03:15,907
+Bia: Are these from Brazil?
+
+35
+00:03:17,001 --> 00:03:20,345
+Professor: e junta a apresentação: 'meu nome é Bia, e eu sou do Brasil':
+
+36
+00:03:23,404 --> 00:03:26,098
+Bia: My name is Bia, and I'm from Brazil.
+
+37
+00:03:27,406 --> 00:03:28,474
+Professor: 'como você está?'
+
+38
+00:03:32,154 --> 00:03:33,222
+Bia: How are you?
+
+39
+00:03:34,863 --> 00:03:35,606
+Professor: e responde:
+
+40
+00:03:38,920 --> 00:03:39,942
+Bia: I'm good.
+
+41
+00:03:41,820 --> 00:03:45,164
+Professor: E uma que já é sua, com o 'from': 'é do Brasil, e é importante?'
+
+42
+00:03:48,617 --> 00:03:51,914
+Bia: Is it from Brazil, and is it important?
+
+43
+00:03:53,363 --> 00:03:56,567
+Professor: Agora casa tudo: 'o carro dele é do Brasil, e é vermelho.'
+
+44
+00:04:00,361 --> 00:04:02,869
+Bia: His car is from Brazil, and it's red.
+
+45
+00:04:04,917 --> 00:04:16,016
+Professor: Um detalhe honesto: quase todo país vai sem 'the', mas uns poucos mantêm — 'the US', 'the UK'. Isso a gente lapida lá na frente; por agora, país vai pelado.
+
+46
+00:04:16,516 --> 00:04:26,733
+Professor: Sacou o dia? 'from' é o 'de' de origem, e o país vai sem 'the'. Você já diz quem você é E de onde você é: 'Hello! My name is Bia. I'm from Brazil.'
+
+47
+00:04:28,594 --> 00:04:34,120
+Bia: Cara, agora eu conto de onde eu sou! 'I'm from Brazil.' — tá virando uma conversa de verdade.
+

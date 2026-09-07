@@ -1,0 +1,260 @@
+1
+00:00:00,300 --> 00:00:16,693
+Professor: Treino pesado, Bia. Vou abrir mais duas famílias e misturar com tudo. A primeira funciona IGUAL a uma que você já conhece: as que terminam em 'ante' perdem o 'e' do fim, do mesmo jeitinho que as 'ente'. 'Importante', em inglês:
+
+2
+00:00:17,193 --> 00:00:17,769
+Professor: Important.
+
+3
+00:00:18,995 --> 00:00:20,063
+Bia: Important.
+
+4
+00:00:22,039 --> 00:00:29,191
+Professor: Isso — ouviu o 'e' do fim sumir de novo? Mesmo movimento das 'ente', só muda a vogal antes. 'Elegante'?
+
+5
+00:00:32,263 --> 00:00:33,378
+Bia: Elegant.
+
+6
+00:00:35,181 --> 00:00:35,970
+Professor: 'Instante'?
+
+7
+00:00:39,335 --> 00:00:40,357
+Bia: Instant.
+
+8
+00:00:41,443 --> 00:00:42,279
+Professor: 'Constante'?
+
+9
+00:00:45,786 --> 00:00:46,901
+Bia: Constant.
+
+10
+00:00:47,957 --> 00:00:50,233
+Professor: Boa. Bota na frase: 'é importante'?
+
+11
+00:00:53,666 --> 00:00:55,106
+Bia: It's important.
+
+12
+00:00:56,210 --> 00:00:57,046
+Professor: 'É elegante'?
+
+13
+00:01:00,136 --> 00:01:01,529
+Bia: It's elegant.
+
+14
+00:01:03,165 --> 00:01:08,691
+Professor: Segunda família: as que terminam em 'oso'. Essa muda mais, então escuta primeiro. 'Famoso':
+
+15
+00:01:09,191 --> 00:01:10,027
+Professor: Famous.
+
+16
+00:01:10,527 --> 00:01:43,314
+Professor: Repara em duas coisas: aquele 'oso' cheio do fim vira um sopro bem fraquinho, quase um 'ss'; e o 'a' do começo abre, vira quase um 'ei', com a força lá na frente. E ó que bonito: esse '-oso' e o '-ous' do inglês vêm do mesmo latim, o '-osus', que queria dizer 'cheio de' — 'famoso' é cheio de fama, 'generoso' cheio de generosidade, 'nervoso' cheio de nervo. Por isso batem tão certinho. Não precisa caprichar hoje, só ir sentindo. Agora você: 'famoso'?
+
+17
+00:01:46,537 --> 00:01:47,605
+Bia: Famous.
+
+18
+00:01:49,546 --> 00:01:50,893
+Professor: Isso. 'É famoso'?
+
+19
+00:01:54,840 --> 00:01:56,233
+Bia: It's famous.
+
+20
+00:01:58,098 --> 00:01:58,887
+Professor: 'Nervoso'?
+
+21
+00:02:02,283 --> 00:02:03,305
+Bia: Nervous.
+
+22
+00:02:05,769 --> 00:02:06,558
+Professor: 'Curioso'?
+
+23
+00:02:09,604 --> 00:02:10,626
+Bia: Curious.
+
+24
+00:02:12,913 --> 00:02:13,795
+Professor: 'Generoso'?
+
+25
+00:02:17,084 --> 00:02:18,199
+Bia: Generous.
+
+26
+00:02:19,415 --> 00:02:20,251
+Professor: 'Delicioso'?
+
+27
+00:02:23,368 --> 00:02:24,483
+Bia: Delicious.
+
+28
+00:02:24,983 --> 00:02:26,887
+Bia: Cara, tá saindo quase automático.
+
+29
+00:02:29,111 --> 00:02:36,866
+Professor: Então segura o treino pesado. Vou soltar de TODAS as famílias, sem ordem, e você me devolve a frase inteira com it's. 'É possível'?
+
+30
+00:02:40,046 --> 00:02:41,253
+Bia: It's possible.
+
+31
+00:02:43,125 --> 00:02:44,007
+Professor: 'É diferente'?
+
+32
+00:02:47,645 --> 00:02:48,945
+Bia: It's different.
+
+33
+00:02:50,503 --> 00:02:51,432
+Professor: 'É famoso'?
+
+34
+00:02:54,979 --> 00:02:56,372
+Bia: It's famous.
+
+35
+00:02:57,466 --> 00:02:58,302
+Professor: 'É incrível'?
+
+36
+00:03:01,361 --> 00:03:02,754
+Bia: It's incredible.
+
+37
+00:03:04,062 --> 00:03:04,991
+Professor: 'É urgente'?
+
+38
+00:03:08,671 --> 00:03:10,064
+Bia: It's urgent.
+
+39
+00:03:11,705 --> 00:03:12,680
+Professor: 'É importante'?
+
+40
+00:03:15,994 --> 00:03:17,434
+Bia: It's important.
+
+41
+00:03:19,312 --> 00:03:20,194
+Professor: 'É terrível'?
+
+42
+00:03:23,647 --> 00:03:24,762
+Bia: It's terrible.
+
+43
+00:03:26,211 --> 00:03:27,047
+Professor: 'É curioso'?
+
+44
+00:03:30,841 --> 00:03:32,234
+Bia: It's curious.
+
+45
+00:03:34,282 --> 00:03:35,350
+Professor: 'É confortável'?
+
+46
+00:03:38,594 --> 00:03:39,894
+Bia: It's comfortable.
+
+47
+00:03:41,755 --> 00:03:42,684
+Professor: 'É flexível'?
+
+48
+00:03:46,209 --> 00:03:47,509
+Bia: It's flexible.
+
+49
+00:03:49,821 --> 00:03:50,843
+Professor: 'É responsável'?
+
+50
+00:03:54,572 --> 00:03:56,244
+Bia: It's responsible.
+
+51
+00:03:57,675 --> 00:03:58,557
+Professor: 'É evidente'?
+
+52
+00:04:02,537 --> 00:04:03,744
+Bia: It's evident.
+
+53
+00:04:04,921 --> 00:04:05,896
+Professor: 'É inteligente'?
+
+54
+00:04:09,314 --> 00:04:10,614
+Bia: It's intelligent.
+
+55
+00:04:12,749 --> 00:04:17,765
+Professor: Agora inverte de novo: me dá VOCÊ uma, de qualquer família. E você aí em casa também.
+
+56
+00:04:18,992 --> 00:04:21,082
+Bia: Deixa eu ver... 'misterioso'.
+
+57
+00:04:21,582 --> 00:04:22,836
+Bia: Mysterious?
+
+58
+00:04:23,894 --> 00:04:31,464
+Professor: Isso! Mysterious. De uma palavra que você já sabia em português, saiu inglês limpinho. Manda mais uma, de outra família.
+
+59
+00:04:33,466 --> 00:04:38,946
+Bia: E uma em 'ante'... 'brilhante'. Pelo padrão é só cortar o 'e': brilhant?
+
+60
+00:04:41,092 --> 00:04:54,978
+Professor: Boa tentativa — e o final você tirou certo, cortou o 'e'. Mas essa é uma 'quase': aquele 'lh' do português abre num 'L' bem claro com um 'i' colado — soa tipo 'bri-li-ant'. Então não é 'brilhant'. Escuta como é de verdade:
+
+61
+00:04:55,478 --> 00:04:56,407
+Professor: Brilliant.
+
+62
+00:04:58,720 --> 00:04:59,974
+Bia: Brilliant.
+
+63
+00:05:00,474 --> 00:05:06,186
+Bia: Ah — o 'lh' abriu num L com um 'i' colado. Essa eu não pegaria sozinha.
+
+64
+00:05:08,228 --> 00:05:23,878
+Professor: Nem tinha como adivinhar essa — você guarda e pronto. É por isso a regra de ouro: chuta com fé, confere com calma. Mas olha onde você chegou: quatro famílias — 'vel', 'ente', 'ante', 'oso' — e já descreve quase qualquer coisa em inglês.
+
+65
+00:05:25,769 --> 00:05:30,599
+Bia: Sério, eu não esperava sair falando tanto adjetivo assim — e sem decorar nada.
+

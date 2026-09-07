@@ -1,0 +1,220 @@
+1
+00:00:00,300 --> 00:00:13,582
+Professor: Até agora a gente MONTOU tudo — regra, máquina, lógica. Número é a única coisa que a gente segura um pouco na memória. Mas ó: você já sabe um bocado, e o resto tem padrão. Me diz — que número em inglês você já conhece?
+
+2
+00:00:16,905 --> 00:00:19,320
+Bia: One, two, three, four, five.
+
+3
+00:00:20,546 --> 00:00:25,979
+Professor: Ó — já veio com cinco! E o 'six' começa igualzinho o nosso 'seis'. De seis a dez:
+
+4
+00:00:26,479 --> 00:00:28,522
+Professor: Six, seven, eight, nine, ten.
+
+5
+00:00:29,630 --> 00:00:31,906
+Bia: Six, seven, eight, nine, ten.
+
+6
+00:00:33,709 --> 00:00:37,471
+Professor: E os dois teimosos, sem padrão nenhum — esses a gente só segura:
+
+7
+00:00:37,971 --> 00:00:39,039
+Professor: Eleven, twelve.
+
+8
+00:00:40,125 --> 00:00:41,750
+Bia: Eleven, twelve.
+
+9
+00:00:42,250 --> 00:00:47,498
+Bia: Peraí — então é isso? Até o doze eu seguro na memória, e o resto monta?
+
+10
+00:00:48,554 --> 00:00:54,359
+Professor: Exato. De treze em diante você MONTA: cola um 'tín' no fim. Escuta a família:
+
+11
+00:00:54,859 --> 00:00:59,178
+Professor: Thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen.
+
+12
+00:01:00,282 --> 00:01:05,205
+Bia: Thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen.
+
+13
+00:01:06,341 --> 00:01:08,152
+Professor: Agora você monta. 'quatorze'?
+
+14
+00:01:11,576 --> 00:01:12,691
+Bia: Fourteen.
+
+15
+00:01:14,931 --> 00:01:15,860
+Professor: 'dezenove'?
+
+16
+00:01:18,983 --> 00:01:20,005
+Bia: Nineteen.
+
+17
+00:01:20,505 --> 00:01:24,777
+Bia: Peraí — 'four' mais 'tín' dá 'fourteen'? E 'five' virou 'fifteen'?
+
+18
+00:01:26,718 --> 00:01:33,730
+Professor: Isso. Dois teimosos na família — 'thirteen' e 'fifteen' não colam direto. Mas o 'tín' no fim é o mesmo.
+
+19
+00:01:34,230 --> 00:01:37,063
+Professor: E as dezenas: cola um 'ti' curto. Escuta:
+
+20
+00:01:37,563 --> 00:01:40,396
+Professor: Twenty, thirty, forty, fifty, sixty.
+
+21
+00:01:41,991 --> 00:01:46,031
+Bia: Twenty, thirty, forty, fifty, sixty.
+
+22
+00:01:48,495 --> 00:01:54,950
+Professor: E o truque pra não confundir: o 'tín' fala FORTE no fim, o 'ti' é fraquinho, no começo. Só escuta o par:
+
+23
+00:01:55,450 --> 00:01:58,004
+Professor: Thirteen. Thirty. Fourteen. Forty.
+
+24
+00:02:00,291 --> 00:02:04,099
+Bia: Thirteen. Thirty. Fourteen. Forty.
+
+25
+00:02:05,533 --> 00:02:23,329
+Professor: E sabe por que 'tín' e 'ti' parecem primos? Porque os dois vêm de 'ten', o dez. O 'tín' quer dizer 'e mais dez' — 'thirteen' é tipo 'três e dez'. O 'ti' quer dizer 'tantas dezenas' — 'thirty' é 'três dezenas'. Por isso 'thirteen' e 'thirty' começam igual: os dois são o três.
+
+26
+00:02:23,829 --> 00:02:30,563
+Professor: E o truque que faz os números infinitos. Português: 'vinte E um'. Inglês some o 'e' — só cola:
+
+27
+00:02:31,063 --> 00:02:32,085
+Professor: Twenty-one.
+
+28
+00:02:33,547 --> 00:02:34,615
+Bia: Twenty-one.
+
+29
+00:02:36,839 --> 00:02:38,372
+Professor: Monta você. 'vinte e três'?
+
+30
+00:02:41,552 --> 00:02:42,852
+Bia: Twenty-three.
+
+31
+00:02:44,724 --> 00:02:45,746
+Professor: 'trinta e cinco'?
+
+32
+00:02:49,384 --> 00:02:50,638
+Bia: Thirty-five.
+
+33
+00:02:52,196 --> 00:02:53,125
+Professor: 'vinte e sete'?
+
+34
+00:02:56,672 --> 00:02:58,112
+Bia: Twenty-seven.
+
+35
+00:02:58,612 --> 00:03:03,024
+Bia: Ah, então dezena colada no número, sem o 'e'? 'twenty' mais 'seven'?
+
+36
+00:03:04,113 --> 00:03:06,389
+Professor: Exato — isso te dá QUALQUER número.
+
+37
+00:03:06,889 --> 00:03:10,000
+Professor: Agora idade. 'tenho vinte anos' — chuta:
+
+38
+00:03:13,680 --> 00:03:15,120
+Bia: I have twenty.
+
+39
+00:03:16,761 --> 00:03:42,024
+Professor: Quase! Idade não é 'have' — é 'be'. E o 'anos' nem precisa aparecer: um número sozinho depois do 'be' JÁ é idade — 'I am twenty' é 'eu tenho vinte', o 'anos' tá embutido. Existe sim o 'years old' — dá pra dizer 'I am twenty years old' —, mas na fala a gente encurta e deixa só o número. A não ser que a frase diga outra coisa, tipo 'eu sou o número vinte'. Mas pelado assim, é idade:
+
+40
+00:03:42,524 --> 00:03:43,546
+Professor: I am twenty.
+
+41
+00:03:45,424 --> 00:03:46,678
+Bia: I am twenty.
+
+42
+00:03:48,357 --> 00:03:52,165
+Professor: Agora os dois num fôlego: 'eu tenho vinte, e ela tem trinta e cinco':
+
+43
+00:03:55,464 --> 00:03:58,111
+Bia: I am twenty, and she is thirty-five.
+
+44
+00:04:00,302 --> 00:04:02,252
+Professor: 'ele tem vinte anos, e tem um carro':
+
+45
+00:04:05,950 --> 00:04:08,318
+Bia: He is twenty, and he has a car.
+
+46
+00:04:09,684 --> 00:04:14,607
+Professor: Agora junta tudo. 'eu tenho dois carros, mas ela tem vinte e um problemas':
+
+47
+00:04:18,181 --> 00:04:22,175
+Bia: I have two cars, but she has twenty-one problems.
+
+48
+00:04:23,962 --> 00:04:26,702
+Professor: 'eu tenho um amigo, e ele tem trinta e três amigos':
+
+49
+00:04:30,577 --> 00:04:34,292
+Bia: I have one friend, and he has thirty-three friends.
+
+50
+00:04:36,386 --> 00:04:39,312
+Professor: 'eu tenho um problema, mas ela tem quarenta e dois problemas':
+
+51
+00:04:42,599 --> 00:04:46,407
+Bia: I have one problem, but she has forty-two problems.
+
+52
+00:04:48,877 --> 00:04:50,642
+Professor: E a resposta curta: 'dois carros'?
+
+53
+00:04:53,760 --> 00:04:54,967
+Bia: Two cars.
+
+54
+00:04:56,594 --> 00:05:20,603
+Professor: Sacou? Número é a única coisa que a gente segura um pouco na memória — e é só até o doze, mais quatro teimosos na dezena. Depois é máquina: 'tín' pra treze, 'ti' pra dezena, e cola pra qualquer número. Idade é 'be', e o 'anos' geralmente cai na fala — o 'years old' existe, mas a gente solta só o número. E pra praticar no teu dia, conta o que você vê — preço, passo, número de ônibus. Sem pressa.
+
+55
+00:05:22,738 --> 00:05:27,614
+Bia: Boa — 'I am twenty-one'. Eu seguro o doze e monto o resto.
+
